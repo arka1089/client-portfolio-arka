@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import me from '../../images/arka13.png';
+import me from '../../images/arka4.png';
 import node from "../../images/node.svg";
 import html from '../../images/html.svg';
 import css from '../../images/css.svg';
